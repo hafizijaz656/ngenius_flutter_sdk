@@ -1,4 +1,4 @@
 
-## 1.0.0
-- Initial release of `ngenius_flutter_sdk`
-- Added support for Android and iOS
+## 1.0.1
+- Format dart code.
+- Improved documentation.

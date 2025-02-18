@@ -1,6 +1,5 @@
 import 'package:ngenius_flutter_sdk/ngenius_response_model.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
-
 import 'ngenius_flutter_sdk_method_channel.dart';
 
 abstract class NgeniusFlutterSdkPlatform extends PlatformInterface {
