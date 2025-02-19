@@ -19,9 +19,9 @@ N-Genius Flutter SDK provides an easy-to-use integration for handling payments u
 ## ⚙️ Android Configuration
 ### **Tested Environment**
 This plugin has been tested with:
-- **Android Gradle Plugin (AGP):** `8.1.0` [See here](https://github.com/mhammadraza137/ngenius_flutter_sdk/blob/960e0d6ad3fedff4e5fb42b054225e94486bee3c/example/android/settings.gradle#L21)
-- **Kotlin Version:** `1.8.22` [See here](https://github.com/mhammadraza137/ngenius_flutter_sdk/blob/960e0d6ad3fedff4e5fb42b054225e94486bee3c/example/android/settings.gradle#L22)
-- **Gradle Distribution:** `8.3` [See here](https://github.com/mhammadraza137/ngenius_flutter_sdk/blob/960e0d6ad3fedff4e5fb42b054225e94486bee3c/example/android/gradle/wrapper/gradle-wrapper.properties#L5)
+- **Android Gradle Plugin (AGP):** `8.1.0` [See here](https://github.com/mhammadraza137/ngenius_flutter_sdk/blob/d61f58d72b17127b11308ed4e3c29563b5184fd7/example/android/settings.gradle#L21)
+- **Kotlin Version:** `1.8.22` [See here](https://github.com/mhammadraza137/ngenius_flutter_sdk/blob/d61f58d72b17127b11308ed4e3c29563b5184fd7/example/android/settings.gradle#L22)
+- **Gradle Distribution:** `8.3` [See here](https://github.com/mhammadraza137/ngenius_flutter_sdk/blob/d61f58d72b17127b11308ed4e3c29563b5184fd7/example/android/gradle/wrapper/gradle-wrapper.properties#L5)
 
 ### **Project-Level `build.gradle` Changes**
 Since N-Genius SDK is a **JitPack dependency**, add the following line inside the `allprojects` repositories block in your **project-level** `android/build.gradle` file:
