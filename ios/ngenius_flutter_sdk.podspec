@@ -15,7 +15,9 @@ N-Genius payment integration in flutter
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
-  s.platform = :ios, '12.0'
+
+  # ✅ Updated iOS minimum version to 15.0 to match project
+  s.platform = :ios, '15.0'
 
   # Add the NISdk dependency
   s.dependency 'NISdk'
